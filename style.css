@@ -1,12 +1,12 @@
 m:root {
-  --theme-color: #285685;
+  --theme-color: #fefbd8;
   --font-color: #ffc765;
   --shade1: rgba(242, 38, 19, 0.5);
   --shade2: rgba(0, 255, 255, 0.5);
 }
 
 body {
-  background-color: golden;
+  background-color: fefbd8;
   font-family: Chaucer;
   color: var(--font-color);
 
